@@ -15,3 +15,7 @@ const modOp = 35 % 2;
 //4.Third code will be provided by creating an arithmethic operation using the + plus operator and assgining the operation to a const variable called sumOp 
 
 const sumOp = 4 + 4;
+
+//5. 
+
+alert(`${secretMessage} ${productOp}-${modOp}-${sumOp}`);
