@@ -8,7 +8,10 @@ const secretMessage = "You have received this message because you have been chos
 
 const productOp = 2 * 3;
 
-//3. Second code will be provided by creating an arithmethic operation using th % modulus operator and assgining the operation to a const variable called modOp
+//3. Second code will be provided by creating an arithmethic operation using the % modulus operator and assgining the operation to a const variable called modOp
 
 const modOp = 35 % 2;
 
+//4.Third code will be provided by creating an arithmethic operation using the + plus operator and assgining the operation to a const variable called sumOp 
+
+const sumOp = 4 + 4;
