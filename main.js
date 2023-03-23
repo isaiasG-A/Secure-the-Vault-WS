@@ -16,6 +16,6 @@ const modOp = 35 % 2;
 
 const sumOp = 4 + 4;
 
-//5. 
+//5. A template literal has been crated by combining all four variables  inside an alert method  in order to display a op-up message and let the user know of their secret combination code.
 
 alert(`${secretMessage} ${productOp}-${modOp}-${sumOp}`);
